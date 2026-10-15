@@ -1,0 +1,1 @@
+# verdigo-app
